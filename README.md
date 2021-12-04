@@ -1,6 +1,9 @@
-### Hi there, I'm [CYK](https://ychai.uk) 👋
-- 🔭 I’m currently working on NLP and machine learning.
-- 📫 How to reach me: <chaiyekun@gmail.com>.
+### Hi there, I'm  <a href="https://ychai.uk"><img src="https://img.shields.io/badge/-cyk-informational?style=for-the-badge" align="top"></a> 👋
+- I’m currently working at  <a href="http://research.baidu.com/"><img src="https://img.shields.io/badge/NLP-ERNIE-blue?style=social&logo=baidu&labelColor=fff&color=blue&logoColor=2832e1" align="top"></a>
+- How to reach me:  <a href="mailto:chaiyekun@gmail.com"><img src="https://img.shields.io/badge/Gmail-chaiyekun@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836" align="top"></a>
+-  Check my tech blogs: <a href="ttps://ychai.uk/notes"><img src="https://img.shields.io/badge/Blog-ychai.uk/notes-EAEAEA?logo=blog&logoColor=white&labelColor=0E83CD" align="top"></a>
+
+
 <!--
 **cyk1337/cyk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -14,7 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![CYK's github stats](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true&theme=vue-dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyk1337&layout=compact&theme=vue-dark)](https://github.com/cyk1337/github-readme-stats)
+![CYK's github stats](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true&theme=vue-light&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyk1337&layout=compact&theme=vue-light)](https://github.com/cyk1337/github-readme-stats)
 
 <!-- 
 [![Highway Transformer](https://github-readme-stats.vercel.app/api/pin/?username=cyk1337&repo=Highway-Transformer&theme=jolly)](https://github.com/cyk1337/Highway-Transformer)  
