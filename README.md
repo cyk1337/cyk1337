@@ -1,7 +1,7 @@
 ### Hi there, I'm  <a href="https://ychai.uk"><img src="https://img.shields.io/badge/-cyk-informational?style=for-the-badge" align="top"></a> 👋
 - I’m currently working at  <a href="http://research.baidu.com/"><img src="https://img.shields.io/badge/NLP-ERNIE-blue?style=social&logo=baidu&labelColor=fff&color=blue&logoColor=2832e1" align="top"></a>
 - How to reach me:  <a href="mailto:chaiyekun@gmail.com"><img src="https://img.shields.io/badge/Gmail-chaiyekun@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836" align="top"></a>
--  Check my tech blogs: <a href="https://ychai.uk/notes"><img src="https://img.shields.io/badge/Blog-ychai.uk/notes-EAEAEA?logo=blog&logoColor=white&labelColor=0E83CD" align="top"></a>
+-  Check my tech blogs: <a href="https://ychai.uk/notes"><img src="https://img.shields.io/badge/Blog-ychai.uk/notes-EAEAEA?logo=hexo&logoColor=white&labelColor=0E83CD" align="top"></a>
 
 
 <!--
