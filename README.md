@@ -5,7 +5,7 @@
 
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyk1337" alt="cyk1337" /></a>
+![cyk1337](https://github-profile-trophy.vercel.app/?username=cyk1337)
 
 
 
