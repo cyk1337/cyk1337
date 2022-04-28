@@ -4,7 +4,14 @@
 - How to reach me:  <a href="mailto:chaiyekun@gmail.com"><img src="https://img.shields.io/badge/Gmail-chaiyekun@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836" align="top"></a>
 
 
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyk1337" alt="cyk1337" /></a>
+
+
+
 <!--
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyk1337&" alt="cyk1337" />
+
 **cyk1337/cyk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- 
@@ -16,8 +23,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![CYK's github stats](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true&theme=vue-light&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyk1337&layout=compact&theme=vue-light)](https://github.com/cyk1337/github-readme-stats)
 -->
-![CYK's github stats](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true&theme=vue-light&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyk1337&layout=compact&theme=vue-light)](https://github.com/cyk1337/github-readme-stats)
 
 <!-- 
 [![Highway Transformer](https://github-readme-stats.vercel.app/api/pin/?username=cyk1337&repo=Highway-Transformer&theme=jolly)](https://github.com/cyk1337/Highway-Transformer)  
