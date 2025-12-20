@@ -6,7 +6,7 @@
 -->
 
 
-![cyk1337](https://github-profile-trophy.vercel.app/?username=cyk1337)
+![cyk1337](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true)
 
 
 
@@ -25,9 +25,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![CYK's github stats](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true&theme=vue-light&show_icons=true)
+![CYK's github stats]([https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true](https://github-readme-stats.vercel.app/api?username=cyk1337&count_private=true))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyk1337&layout=compact&theme=vue-light)](https://github.com/cyk1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyk1337&layout=compact)](https://github.com/cyk1337/github-readme-stats)
 -->
 
 <!-- 
